@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CiniBuZz | AI Movie Guide</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body class="sidebar-open">
+
+    <!-- SIDEBAR -->
+    <aside class="sidebar" id="sidebar">
+        <div class="sidebar-header">
+            <div class="logo"><i class='bx bxs-zap'></i> CINIBUZZ</div>
+        </div>
+
+        <nav class="side-nav">
+            <p class="menu-label">Main Lounge</p>
+            <a href="/" class="{{ 'active' if active_page == 'discovery' else '' }}">
+                <i class='bx bxs-compass'></i> <span>Discovery</span>
+            </a>
+            <a href="/trending" class="{{ 'active' if active_page == 'trending' else '' }}">
+                <i class='bx bxs-bolt'></i> <span>Trending</span>
+            </a>
+
+            <p class="menu-label">Genres</p>
+            <a href="/categories/Action" class="{{ 'active' if active_page == 'action' else '' }}">
+                <i class='bx bxs-shield'></i> <span>Action</span>
+            </a>
+            <a href="/categories/Horror" class="{{ 'active' if active_page == 'horror' else '' }}">
+                <i class='bx bxs-skull'></i> <span>Horror</span>
+            </a>
+            <a href="/categories/Comedy" class="{{ 'active' if active_page == 'comedy' else '' }}">
+                <i class='bx bxs-face'></i> <span>Comedy</span>
+            </a>
+            <a href="/categories/Sci-Fi" class="{{ 'active' if active_page == 'sci-fi' else '' }}">
+                <i class='bx bxs-planet'></i> <span>Sci-Fi</span>
+            </a>
+        </nav>
+    </aside>
+
+    <main class="main-content">
+        <header class="top-nav">
+            <button id="toggle-sidebar" class="menu-toggle-btn"><i class='bx bx-menu'></i></button>
+            <form action="/recommend" method="POST" class="search-bar">
+                <i class='bx bx-search'></i>
+                <input type="text" name="movie_name" placeholder="Search cinematic masterpieces..." required>
+                <button type="submit">AI Suggest</button>
+            </form>
+        </header>
+
+        {% if movies and not searched and not error %}
+        <section class="hero-banner">
+            <div class="hero-bg-wrapper">
+                <img src="{{ movies[0].poster }}" class="hero-bg">
+                <div class="hero-overlay"></div>
+            </div>
+            <div class="hero-content">
+                <span class="hero-badge"><i class='bx bxs-star'></i> #1 Choice Today</span>
+                <h1>{{ movies[0].title }}</h1>
+                <p class="hero-meta">{{ movies[0].genres }} • Ultra HD</p>
+                <div class="hero-btns">
+                    {% if movies[0].trailer %}
+                    <button class="btn-primary" onclick="openTrailer('{{ movies[0].trailer }}')">
+                        <i class='bx bx-play'></i> Watch Trailer
+                    </button>
+                    {% endif %}
+                    <a href="{{ movies[0].link }}" target="_blank" class="btn-secondary">
+                        <i class='bx bx-info-circle'></i> Details
+                    </a>
+                </div>
+            </div>
+        </section>
+        {% endif %}
+
+        <section class="grid-section">
+            <h2 class="section-title">
+                {% if searched %} Results for: <span>{{ searched }}</span>
+                {% elif title %} {{ title }}
+                {% else %} Explore <span>Collection</span>
+                {% endif %}
+            </h2>
+
+            <div class="movie-grid">
+                {% for movie in movies %}
+                <div class="movie-card" style="animation-delay: {{ loop.index0 * 0.05 }}s">
+                    <div class="poster-wrapper">
+                        <img src="{{ movie.poster }}" class="movie-poster" loading="lazy">
+                        <div class="card-overlay">
+                            {% if movie.trailer %}
+                            <button class="play-btn-glass" onclick="openTrailer('{{ movie.trailer }}')">
+                                <i class='bx bx-play'></i>
+                            </button>
+                            {% endif %}
+                            <a href="{{ movie.link }}" target="_blank" class="streaming-link">View Details</a>
+                        </div>
+                    </div>
+                    <div class="movie-info">
+                        <h3>{{ movie.title }}</h3>
+                        <p>{{ movie.genres }}</p>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </section>
+    </main>
+
+    <div id="trailerModal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal" onclick="closeTrailer()">&times;</span>
+            <div class="video-container">
+                <iframe id="trailerPlayer" src="" frameborder="0" allow="autoplay" allowfullscreen></iframe>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const body = document.body;
+        const toggleBtn = document.getElementById('toggle-sidebar');
+
+        toggleBtn.onclick = () => {
+            body.classList.toggle('sidebar-open');
+        };
+
+        function openTrailer(key) {
+            document.getElementById('trailerPlayer').src = "https://www.youtube.com/embed/" + key + "?autoplay=1";
+            document.getElementById('trailerModal').style.display = "flex";
+        }
+        function closeTrailer() {
+            document.getElementById('trailerModal').style.display = "none";
+            document.getElementById('trailerPlayer').src = "";
+        }
+    </script>
+</body>
+</html>
