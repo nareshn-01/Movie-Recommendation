@@ -1,0 +1,201 @@
+id,original_title,genres,overview,keywords,popularity,budget,original_language
+1,Interstellar,Drama|Sci-Fi,"The compelling story of Interstellar, exploring themes in the Drama and Sci-Fi genre.",interstellar action drama,51,10500000,en
+2,The Proposal,Comedy|Romance,"The compelling story of The Proposal, exploring themes in the Comedy and Romance genre.",the_proposal action drama,52,11000000,en
+3,Inception,Sci-Fi|Thriller,"The compelling story of Inception, exploring themes in the Sci-Fi and Thriller genre.",inception action drama,53,11500000,en
+4,Twilight,Romance|Horror,"The compelling story of Twilight, exploring themes in the Romance and Horror genre.",twilight action drama,54,12000000,en
+5,Jurassic Park,Thriller|Adventure,"The compelling story of Jurassic Park, exploring themes in the Thriller and Adventure genre.",jurassic_park action drama,55,12500000,en
+6,Pan's Labyrinth,Horror|Fantasy,"The compelling story of Pan's Labyrinth, exploring themes in the Horror and Fantasy genre.",pan's_labyrinth action drama,56,13000000,en
+7,The Avengers,Adventure|Action,"The compelling story of The Avengers, exploring themes in the Adventure and Action genre.",the_avengers action drama,57,13500000,en
+8,The Green Mile,Fantasy|Drama,"The compelling story of The Green Mile, exploring themes in the Fantasy and Drama genre.",the_green_mile action drama,58,14000000,en
+9,Deadpool,Action|Comedy,"The compelling story of Deadpool, exploring themes in the Action and Comedy genre.",deadpool action drama,59,14500000,en
+10,Arrival,Drama|Sci-Fi,"The compelling story of Arrival, exploring themes in the Drama and Sci-Fi genre.",arrival action drama,60,15000000,en
+11,How to Lose a Guy in 10 Days,Comedy|Romance,"The compelling story of How to Lose a Guy in 10 Days, exploring themes in the Comedy and Romance genre.",how_to_lose_a_guy_in_10_days action drama,61,15500000,en
+12,Source Code,Sci-Fi|Thriller,"The compelling story of Source Code, exploring themes in the Sci-Fi and Thriller genre.",source_code action drama,62,16000000,en
+13,Crimson Peak,Romance|Horror,"The compelling story of Crimson Peak, exploring themes in the Romance and Horror genre.",crimson_peak action drama,63,16500000,en
+14,The Fugitive,Thriller|Adventure,"The compelling story of The Fugitive, exploring themes in the Thriller and Adventure genre.",the_fugitive action drama,64,17000000,en
+15,The Shape of Water,Horror|Fantasy,"The compelling story of The Shape of Water, exploring themes in the Horror and Fantasy genre.",the_shape_of_water action drama,65,17500000,en
+16,Gladiator,Adventure|Action,"The compelling story of Gladiator, exploring themes in the Adventure and Action genre.",gladiator action drama,66,18000000,en
+17,The Lord of the Rings: The Fellowship of the Ring,Fantasy|Drama,"The compelling story of The Lord of the Rings: The Fellowship of the Ring, exploring themes in the Fantasy and Drama genre.",the_lord_of_the_rings:_the_fellowship_of_the_ring action drama,67,18500000,en
+18,21 Jump Street,Action|Comedy,"The compelling story of 21 Jump Street, exploring themes in the Action and Comedy genre.",21_jump_street action drama,68,19000000,en
+19,Blade Runner 2049,Drama|Sci-Fi,"The compelling story of Blade Runner 2049, exploring themes in the Drama and Sci-Fi genre.",blade_runner_2049 action drama,69,19500000,en
+20,Crazy Rich Asians,Comedy|Romance,"The compelling story of Crazy Rich Asians, exploring themes in the Comedy and Romance genre.",crazy_rich_asians action drama,70,20000000,en
+21,Minority Report,Sci-Fi|Thriller,"The compelling story of Minority Report, exploring themes in the Sci-Fi and Thriller genre.",minority_report action drama,71,20500000,en
+22,Warm Bodies,Romance|Horror,"The compelling story of Warm Bodies, exploring themes in the Romance and Horror genre.",warm_bodies action drama,72,21000000,en
+23,Mad Max: Fury Road,Thriller|Adventure,"The compelling story of Mad Max: Fury Road, exploring themes in the Thriller and Adventure genre.",mad_max:_fury_road action drama,73,21500000,en
+24,Hellboy,Horror|Fantasy,"The compelling story of Hellboy, exploring themes in the Horror and Fantasy genre.",hellboy action drama,74,22000000,en
+25,Pirates of the Caribbean: The Curse of the Black Pearl,Adventure|Action,"The compelling story of Pirates of the Caribbean: The Curse of the Black Pearl, exploring themes in the Adventure and Action genre.",pirates_of_the_caribbean:_the_curse_of_the_black_pearl action drama,75,22500000,en
+26,Big Fish,Fantasy|Drama,"The compelling story of Big Fish, exploring themes in the Fantasy and Drama genre.",big_fish action drama,76,23000000,en
+27,Hot Fuzz,Action|Comedy,"The compelling story of Hot Fuzz, exploring themes in the Action and Comedy genre.",hot_fuzz action drama,77,23500000,en
+28,Gattaca,Drama|Sci-Fi,"The compelling story of Gattaca, exploring themes in the Drama and Sci-Fi genre.",gattaca action drama,78,24000000,en
+29,500 Days of Summer,Comedy|Romance,"The compelling story of 500 Days of Summer, exploring themes in the Comedy and Romance genre.",500_days_of_summer action drama,79,24500000,en
+30,The Matrix,Sci-Fi|Thriller,"The compelling story of The Matrix, exploring themes in the Sci-Fi and Thriller genre.",the_matrix action drama,80,25000000,en
+31,Only Lovers Left Alive,Romance|Horror,"The compelling story of Only Lovers Left Alive, exploring themes in the Romance and Horror genre.",only_lovers_left_alive action drama,81,25500000,en
+32,North by Northwest,Thriller|Adventure,"The compelling story of North by Northwest, exploring themes in the Thriller and Adventure genre.",north_by_northwest action drama,82,26000000,en
+33,Sleepy Hollow,Horror|Fantasy,"The compelling story of Sleepy Hollow, exploring themes in the Horror and Fantasy genre.",sleepy_hollow action drama,83,26500000,en
+34,Mission: Impossible - Fallout,Adventure|Action,"The compelling story of Mission: Impossible - Fallout, exploring themes in the Adventure and Action genre.",mission:_impossible_-_fallout action drama,84,27000000,en
+35,The Curious Case of Benjamin Button,Fantasy|Drama,"The compelling story of The Curious Case of Benjamin Button, exploring themes in the Fantasy and Drama genre.",the_curious_case_of_benjamin_button action drama,85,27500000,en
+36,Rush Hour,Action|Comedy,"The compelling story of Rush Hour, exploring themes in the Action and Comedy genre.",rush_hour action drama,86,28000000,en
+37,The Prestige,Drama|Sci-Fi,"The compelling story of The Prestige, exploring themes in the Drama and Sci-Fi genre.",the_prestige action drama,87,28500000,en
+38,Notting Hill,Comedy|Romance,"The compelling story of Notting Hill, exploring themes in the Comedy and Romance genre.",notting_hill action drama,88,29000000,en
+39,Tenet,Sci-Fi|Thriller,"The compelling story of Tenet, exploring themes in the Sci-Fi and Thriller genre.",tenet action drama,89,29500000,en
+40,Bram Stoker's Dracula,Romance|Horror,"The compelling story of Bram Stoker's Dracula, exploring themes in the Romance and Horror genre.",bram_stoker's_dracula action drama,90,30000000,en
+41,Raiders of the Lost Ark,Thriller|Adventure,"The compelling story of Raiders of the Lost Ark, exploring themes in the Thriller and Adventure genre.",raiders_of_the_lost_ark action drama,91,30500000,en
+42,The Evil Dead,Horror|Fantasy,"The compelling story of The Evil Dead, exploring themes in the Horror and Fantasy genre.",the_evil_dead action drama,92,31000000,en
+43,John Wick,Adventure|Action,"The compelling story of John Wick, exploring themes in the Adventure and Action genre.",john_wick action drama,93,31500000,en
+44,Harry Potter and the Deathly Hallows,Fantasy|Drama,"The compelling story of Harry Potter and the Deathly Hallows, exploring themes in the Fantasy and Drama genre.",harry_potter_and_the_deathly_hallows action drama,94,32000000,en
+45,Guardians of the Galaxy,Action|Comedy,"The compelling story of Guardians of the Galaxy, exploring themes in the Action and Comedy genre.",guardians_of_the_galaxy action drama,95,32500000,en
+46,Children of Men,Drama|Sci-Fi,"The compelling story of Children of Men, exploring themes in the Drama and Sci-Fi genre.",children_of_men action drama,96,33000000,en
+47,Pretty Woman,Comedy|Romance,"The compelling story of Pretty Woman, exploring themes in the Comedy and Romance genre.",pretty_woman action drama,97,33500000,en
+48,Edge of Tomorrow,Sci-Fi|Thriller,"The compelling story of Edge of Tomorrow, exploring themes in the Sci-Fi and Thriller genre.",edge_of_tomorrow action drama,98,34000000,en
+49,Let the Right One In,Romance|Horror,"The compelling story of Let the Right One In, exploring themes in the Romance and Horror genre.",let_the_right_one_in action drama,99,34500000,en
+50,Cast Away,Thriller|Adventure,"The compelling story of Cast Away, exploring themes in the Thriller and Adventure genre.",cast_away action drama,50,35000000,en
+51,Evil Dead II,Horror|Fantasy,"The compelling story of Evil Dead II, exploring themes in the Horror and Fantasy genre.",evil_dead_ii action drama,51,35500000,en
+52,Top Gun: Maverick,Adventure|Action,"The compelling story of Top Gun: Maverick, exploring themes in the Adventure and Action genre.",top_gun:_maverick action drama,52,36000000,en
+53,Field of Dreams,Fantasy|Drama,"The compelling story of Field of Dreams, exploring themes in the Fantasy and Drama genre.",field_of_dreams action drama,53,36500000,en
+54,Kingsman: The Secret Service,Action|Comedy,"The compelling story of Kingsman: The Secret Service, exploring themes in the Action and Comedy genre.",kingsman:_the_secret_service action drama,54,37000000,en
+55,Her,Drama|Sci-Fi,"The compelling story of Her, exploring themes in the Drama and Sci-Fi genre.",her action drama,55,37500000,en
+56,The Holiday,Comedy|Romance,"The compelling story of The Holiday, exploring themes in the Comedy and Romance genre.",the_holiday action drama,56,38000000,en
+57,12 Monkeys,Sci-Fi|Thriller,"The compelling story of 12 Monkeys, exploring themes in the Sci-Fi and Thriller genre.",12_monkeys action drama,57,38500000,en
+58,Interview with the Vampire,Romance|Horror,"The compelling story of Interview with the Vampire, exploring themes in the Romance and Horror genre.",interview_with_the_vampire action drama,58,39000000,en
+59,The Revenant,Thriller|Adventure,"The compelling story of The Revenant, exploring themes in the Thriller and Adventure genre.",the_revenant action drama,59,39500000,en
+60,Army of Darkness,Horror|Fantasy,"The compelling story of Army of Darkness, exploring themes in the Horror and Fantasy genre.",army_of_darkness action drama,60,40000000,en
+61,Casino Royale,Adventure|Action,"The compelling story of Casino Royale, exploring themes in the Adventure and Action genre.",casino_royale action drama,61,40500000,en
+62,Pleasantville,Fantasy|Drama,"The compelling story of Pleasantville, exploring themes in the Fantasy and Drama genre.",pleasantville action drama,62,41000000,en
+63,Men in Black,Action|Comedy,"The compelling story of Men in Black, exploring themes in the Action and Comedy genre.",men_in_black action drama,63,41500000,en
+64,Ex Machina,Drama|Sci-Fi,"The compelling story of Ex Machina, exploring themes in the Drama and Sci-Fi genre.",ex_machina action drama,64,42000000,en
+65,Love Actually,Comedy|Romance,"The compelling story of Love Actually, exploring themes in the Comedy and Romance genre.",love_actually action drama,65,42500000,en
+66,Deja Vu,Sci-Fi|Thriller,"The compelling story of Deja Vu, exploring themes in the Sci-Fi and Thriller genre.",deja_vu action drama,66,43000000,en
+67,Thirst,Romance|Horror,"The compelling story of Thirst, exploring themes in the Romance and Horror genre.",thirst action drama,67,43500000,en
+68,Life of Pi,Thriller|Adventure,"The compelling story of Life of Pi, exploring themes in the Thriller and Adventure genre.",life_of_pi action drama,68,44000000,en
+69,Drag Me to Hell,Horror|Fantasy,"The compelling story of Drag Me to Hell, exploring themes in the Horror and Fantasy genre.",drag_me_to_hell action drama,69,44500000,en
+70,Skyfall,Adventure|Action,"The compelling story of Skyfall, exploring themes in the Adventure and Action genre.",skyfall action drama,70,45000000,en
+71,Midnight in Paris,Fantasy|Drama,"The compelling story of Midnight in Paris, exploring themes in the Fantasy and Drama genre.",midnight_in_paris action drama,71,45500000,en
+72,Bad Boys,Action|Comedy,"The compelling story of Bad Boys, exploring themes in the Action and Comedy genre.",bad_boys action drama,72,46000000,en
+73,Sunshine,Drama|Sci-Fi,"The compelling story of Sunshine, exploring themes in the Drama and Sci-Fi genre.",sunshine action drama,73,46500000,en
+74,About Time,Comedy|Romance,"The compelling story of About Time, exploring themes in the Comedy and Romance genre.",about_time action drama,74,47000000,en
+75,The Adjustment Bureau,Sci-Fi|Thriller,"The compelling story of The Adjustment Bureau, exploring themes in the Sci-Fi and Thriller genre.",the_adjustment_bureau action drama,75,47500000,en
+76,Spring,Romance|Horror,"The compelling story of Spring, exploring themes in the Romance and Horror genre.",spring action drama,76,48000000,en
+77,Gravity,Thriller|Adventure,"The compelling story of Gravity, exploring themes in the Thriller and Adventure genre.",gravity action drama,77,48500000,en
+78,Krampus,Horror|Fantasy,"The compelling story of Krampus, exploring themes in the Horror and Fantasy genre.",krampus action drama,78,49000000,en
+79,Spider-Man: Into the Spider-Verse,Adventure|Action,"The compelling story of Spider-Man: Into the Spider-Verse, exploring themes in the Adventure and Action genre.",spider-man:_into_the_spider-verse action drama,79,49500000,en
+80,The Princess Bride,Fantasy|Drama,"The compelling story of The Princess Bride, exploring themes in the Fantasy and Drama genre.",the_princess_bride action drama,80,50000000,en
+81,Tropic Thunder,Action|Comedy,"The compelling story of Tropic Thunder, exploring themes in the Action and Comedy genre.",tropic_thunder action drama,81,50500000,en
+82,Eternal Sunshine of the Spotless Mind,Drama|Sci-Fi,"The compelling story of Eternal Sunshine of the Spotless Mind, exploring themes in the Drama and Sci-Fi genre.",eternal_sunshine_of_the_spotless_mind action drama,82,51000000,en
+83,About a Boy,Comedy|Romance,"The compelling story of About a Boy, exploring themes in the Comedy and Romance genre.",about_a_boy action drama,83,51500000,en
+84,Predestination,Sci-Fi|Thriller,"The compelling story of Predestination, exploring themes in the Sci-Fi and Thriller genre.",predestination action drama,84,52000000,en
+85,Byzantium,Romance|Horror,"The compelling story of Byzantium, exploring themes in the Romance and Horror genre.",byzantium action drama,85,52500000,en
+86,Everest,Thriller|Adventure,"The compelling story of Everest, exploring themes in the Thriller and Adventure genre.",everest action drama,86,53000000,en
+87,Coraline,Horror|Fantasy,"The compelling story of Coraline, exploring themes in the Horror and Fantasy genre.",coraline action drama,87,53500000,en
+88,Iron Man,Adventure|Action,"The compelling story of Iron Man, exploring themes in the Adventure and Action genre.",iron_man action drama,88,54000000,en
+89,Hook,Fantasy|Drama,"The compelling story of Hook, exploring themes in the Fantasy and Drama genre.",hook action drama,89,54500000,en
+90,The Nice Guys,Action|Comedy,"The compelling story of The Nice Guys, exploring themes in the Action and Comedy genre.",the_nice_guys action drama,90,55000000,en
+91,Melancholia,Drama|Sci-Fi,"The compelling story of Melancholia, exploring themes in the Drama and Sci-Fi genre.",melancholia action drama,91,55500000,en
+92,When Harry Met Sally,Comedy|Romance,"The compelling story of When Harry Met Sally, exploring themes in the Comedy and Romance genre.",when_harry_met_sally action drama,92,56000000,en
+93,Dark City,Sci-Fi|Thriller,"The compelling story of Dark City, exploring themes in the Sci-Fi and Thriller genre.",dark_city action drama,93,56500000,en
+94,The Hunger,Romance|Horror,"The compelling story of The Hunger, exploring themes in the Romance and Horror genre.",the_hunger action drama,94,57000000,en
+95,The Martian,Thriller|Adventure,"The compelling story of The Martian, exploring themes in the Thriller and Adventure genre.",the_martian action drama,95,57500000,en
+96,Beetlejuice,Horror|Fantasy,"The compelling story of Beetlejuice, exploring themes in the Horror and Fantasy genre.",beetlejuice action drama,96,58000000,en
+97,Thor: Ragnarok,Adventure|Action,"The compelling story of Thor: Ragnarok, exploring themes in the Adventure and Action genre.",thor:_ragnarok action drama,97,58500000,en
+98,The NeverEnding Story,Fantasy|Drama,"The compelling story of The NeverEnding Story, exploring themes in the Fantasy and Drama genre.",the_neverending_story action drama,98,59000000,en
+99,Free Guy,Action|Comedy,"The compelling story of Free Guy, exploring themes in the Action and Comedy genre.",free_guy action drama,99,59500000,en
+100,Dark City,Drama|Sci-Fi,"The compelling story of Dark City, exploring themes in the Drama and Sci-Fi genre.",dark_city action drama,50,60000000,en
+101,10 Things I Hate About You,Comedy|Romance,"The compelling story of 10 Things I Hate About You, exploring themes in the Comedy and Romance genre.",10_things_i_hate_about_you action drama,51,60500000,en
+102,Frequency,Sci-Fi|Thriller,"The compelling story of Frequency, exploring themes in the Sci-Fi and Thriller genre.",frequency action drama,52,61000000,en
+103,A Girl Walks Home Alone at Night,Romance|Horror,"The compelling story of A Girl Walks Home Alone at Night, exploring themes in the Romance and Horror genre.",a_girl_walks_home_alone_at_night action drama,53,61500000,en
+104,Apollo 13,Thriller|Adventure,"The compelling story of Apollo 13, exploring themes in the Thriller and Adventure genre.",apollo_13 action drama,54,62000000,en
+105,The Nightmare Before Christmas,Horror|Fantasy,"The compelling story of The Nightmare Before Christmas, exploring themes in the Horror and Fantasy genre.",the_nightmare_before_christmas action drama,55,62500000,en
+106,Black Panther,Adventure|Action,"The compelling story of Black Panther, exploring themes in the Adventure and Action genre.",black_panther action drama,56,63000000,en
+107,Stardust,Fantasy|Drama,"The compelling story of Stardust, exploring themes in the Fantasy and Drama genre.",stardust action drama,57,63500000,en
+108,Bullet Train,Action|Comedy,"The compelling story of Bullet Train, exploring themes in the Action and Comedy genre.",bullet_train action drama,58,64000000,en
+109,Cloud Atlas,Drama|Sci-Fi,"The compelling story of Cloud Atlas, exploring themes in the Drama and Sci-Fi genre.",cloud_atlas action drama,59,64500000,en
+110,Clueless,Comedy|Romance,"The compelling story of Clueless, exploring themes in the Comedy and Romance genre.",clueless action drama,60,65000000,en
+111,Limitless,Sci-Fi|Thriller,"The compelling story of Limitless, exploring themes in the Sci-Fi and Thriller genre.",limitless action drama,61,65500000,en
+112,Near Dark,Romance|Horror,"The compelling story of Near Dark, exploring themes in the Romance and Horror genre.",near_dark action drama,62,66000000,en
+113,Jaws,Thriller|Adventure,"The compelling story of Jaws, exploring themes in the Thriller and Adventure genre.",jaws action drama,63,66500000,en
+114,Gremlins,Horror|Fantasy,"The compelling story of Gremlins, exploring themes in the Horror and Fantasy genre.",gremlins action drama,64,67000000,en
+115,Wonder Woman,Adventure|Action,"The compelling story of Wonder Woman, exploring themes in the Adventure and Action genre.",wonder_woman action drama,65,67500000,en
+116,Bridge to Terabithia,Fantasy|Drama,"The compelling story of Bridge to Terabithia, exploring themes in the Fantasy and Drama genre.",bridge_to_terabithia action drama,66,68000000,en
+117,Everything Everywhere All at Once,Action|Comedy,"The compelling story of Everything Everywhere All at Once, exploring themes in the Action and Comedy genre.",everything_everywhere_all_at_once action drama,67,68500000,en
+118,Ad Astra,Drama|Sci-Fi,"The compelling story of Ad Astra, exploring themes in the Drama and Sci-Fi genre.",ad_astra action drama,68,69000000,en
+119,Bridget Jones's Diary,Comedy|Romance,"The compelling story of Bridget Jones's Diary, exploring themes in the Comedy and Romance genre.",bridget_jones's_diary action drama,69,69500000,en
+120,Transcendence,Sci-Fi|Thriller,"The compelling story of Transcendence, exploring themes in the Sci-Fi and Thriller genre.",transcendence action drama,70,70000000,en
+121,Bones and All,Romance|Horror,"The compelling story of Bones and All, exploring themes in the Romance and Horror genre.",bones_and_all action drama,71,70500000,en
+122,Twister,Thriller|Adventure,"The compelling story of Twister, exploring themes in the Thriller and Adventure genre.",twister action drama,72,71000000,en
+123,Poltergeist,Horror|Fantasy,"The compelling story of Poltergeist, exploring themes in the Horror and Fantasy genre.",poltergeist action drama,73,71500000,en
+124,The Dark Knight,Adventure|Action,"The compelling story of The Dark Knight, exploring themes in the Adventure and Action genre.",the_dark_knight action drama,74,72000000,en
+125,Where the Wild Things Are,Fantasy|Drama,"The compelling story of Where the Wild Things Are, exploring themes in the Fantasy and Drama genre.",where_the_wild_things_are action drama,75,72500000,en
+126,Kick-Ass,Action|Comedy,"The compelling story of Kick-Ass, exploring themes in the Action and Comedy genre.",kick-ass action drama,76,73000000,en
+127,Annihilation,Drama|Sci-Fi,"The compelling story of Annihilation, exploring themes in the Drama and Sci-Fi genre.",annihilation action drama,77,73500000,en
+128,My Big Fat Greek Wedding,Comedy|Romance,"The compelling story of My Big Fat Greek Wedding, exploring themes in the Comedy and Romance genre.",my_big_fat_greek_wedding action drama,78,74000000,en
+129,The Island,Sci-Fi|Thriller,"The compelling story of The Island, exploring themes in the Sci-Fi and Thriller genre.",the_island action drama,79,74500000,en
+130,Possession,Romance|Horror,"The compelling story of Possession, exploring themes in the Romance and Horror genre.",possession action drama,80,75000000,en
+131,Cliffhanger,Thriller|Adventure,"The compelling story of Cliffhanger, exploring themes in the Thriller and Adventure genre.",cliffhanger action drama,81,75500000,en
+132,The Others,Horror|Fantasy,"The compelling story of The Others, exploring themes in the Horror and Fantasy genre.",the_others action drama,82,76000000,en
+133,Logan,Adventure|Action,"The compelling story of Logan, exploring themes in the Adventure and Action genre.",logan action drama,83,76500000,en
+134,A Monster Calls,Fantasy|Drama,"The compelling story of A Monster Calls, exploring themes in the Fantasy and Drama genre.",a_monster_calls action drama,84,77000000,en
+135,Scott Pilgrim vs. the World,Action|Comedy,"The compelling story of Scott Pilgrim vs. the World, exploring themes in the Action and Comedy genre.",scott_pilgrim_vs._the_world action drama,85,77500000,en
+136,Never Let Me Go,Drama|Sci-Fi,"The compelling story of Never Let Me Go, exploring themes in the Drama and Sci-Fi genre.",never_let_me_go action drama,86,78000000,en
+137,Serendipity,Comedy|Romance,"The compelling story of Serendipity, exploring themes in the Comedy and Romance genre.",serendipity action drama,87,78500000,en
+138,Oblivion,Sci-Fi|Thriller,"The compelling story of Oblivion, exploring themes in the Sci-Fi and Thriller genre.",oblivion action drama,88,79000000,en
+139,Horns,Romance|Horror,"The compelling story of Horns, exploring themes in the Romance and Horror genre.",horns action drama,89,79500000,en
+140,Deliverance,Thriller|Adventure,"The compelling story of Deliverance, exploring themes in the Thriller and Adventure genre.",deliverance action drama,90,80000000,en
+141,The Orphanage,Horror|Fantasy,"The compelling story of The Orphanage, exploring themes in the Horror and Fantasy genre.",the_orphanage action drama,91,80500000,en
+142,Braveheart,Adventure|Action,"The compelling story of Braveheart, exploring themes in the Adventure and Action genre.",braveheart action drama,92,81000000,en
+143,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",Fantasy|Drama,"The compelling story of The Chronicles of Narnia: The Lion, the Witch and the Wardrobe, exploring themes in the Fantasy and Drama genre.","the_chronicles_of_narnia:_the_lion,_the_witch_and_the_wardrobe action drama",93,81500000,en
+144,Spy,Action|Comedy,"The compelling story of Spy, exploring themes in the Action and Comedy genre.",spy action drama,94,82000000,en
+145,High Life,Drama|Sci-Fi,"The compelling story of High Life, exploring themes in the Drama and Sci-Fi genre.",high_life action drama,95,82500000,en
+146,Enchanted,Comedy|Romance,"The compelling story of Enchanted, exploring themes in the Comedy and Romance genre.",enchanted action drama,96,83000000,en
+147,Elysium,Sci-Fi|Thriller,"The compelling story of Elysium, exploring themes in the Sci-Fi and Thriller genre.",elysium action drama,97,83500000,en
+148,Lisa Frankenstein,Romance|Horror,"The compelling story of Lisa Frankenstein, exploring themes in the Romance and Horror genre.",lisa_frankenstein action drama,98,84000000,en
+149,The Grey,Thriller|Adventure,"The compelling story of The Grey, exploring themes in the Thriller and Adventure genre.",the_grey action drama,99,84500000,en
+150,Crimson Peak,Horror|Fantasy,"The compelling story of Crimson Peak, exploring themes in the Horror and Fantasy genre.",crimson_peak action drama,50,85000000,en
+151,Troy,Adventure|Action,"The compelling story of Troy, exploring themes in the Adventure and Action genre.",troy action drama,51,85500000,en
+152,Edward Scissorhands,Fantasy|Drama,"The compelling story of Edward Scissorhands, exploring themes in the Fantasy and Drama genre.",edward_scissorhands action drama,52,86000000,en
+153,The Heat,Action|Comedy,"The compelling story of The Heat, exploring themes in the Action and Comedy genre.",the_heat action drama,53,86500000,en
+154,Looper,Drama|Sci-Fi,"The compelling story of Looper, exploring themes in the Drama and Sci-Fi genre.",looper action drama,54,87000000,en
+155,Sleepless in Seattle,Comedy|Romance,"The compelling story of Sleepless in Seattle, exploring themes in the Comedy and Romance genre.",sleepless_in_seattle action drama,55,87500000,en
+156,District 9,Sci-Fi|Thriller,"The compelling story of District 9, exploring themes in the Sci-Fi and Thriller genre.",district_9 action drama,56,88000000,en
+157,Beautiful Creatures,Romance|Horror,"The compelling story of Beautiful Creatures, exploring themes in the Romance and Horror genre.",beautiful_creatures action drama,57,88500000,en
+158,Jungle,Thriller|Adventure,"The compelling story of Jungle, exploring themes in the Thriller and Adventure genre.",jungle action drama,58,89000000,en
+159,The Lighthouse,Horror|Fantasy,"The compelling story of The Lighthouse, exploring themes in the Horror and Fantasy genre.",the_lighthouse action drama,59,89500000,en
+160,300,Adventure|Action,"The compelling story of 300, exploring themes in the Adventure and Action genre.",300 action drama,60,90000000,en
+161,Labyrinth,Fantasy|Drama,"The compelling story of Labyrinth, exploring themes in the Fantasy and Drama genre.",labyrinth action drama,61,90500000,en
+162,Ghostbusters,Action|Comedy,"The compelling story of Ghostbusters, exploring themes in the Action and Comedy genre.",ghostbusters action drama,62,91000000,en
+163,A.I. Artificial Intelligence,Drama|Sci-Fi,"The compelling story of A.I. Artificial Intelligence, exploring themes in the Drama and Sci-Fi genre.",a.i._artificial_intelligence action drama,63,91500000,en
+164,You've Got Mail,Comedy|Romance,"The compelling story of You've Got Mail, exploring themes in the Comedy and Romance genre.",you've_got_mail action drama,64,92000000,en
+165,Avatar,Sci-Fi|Thriller,"The compelling story of Avatar, exploring themes in the Sci-Fi and Thriller genre.",avatar action drama,65,92500000,en
+166,Red Riding Hood,Romance|Horror,"The compelling story of Red Riding Hood, exploring themes in the Romance and Horror genre.",red_riding_hood action drama,66,93000000,en
+167,Into the Wild,Thriller|Adventure,"The compelling story of Into the Wild, exploring themes in the Thriller and Adventure genre.",into_the_wild action drama,67,93500000,en
+168,It Follows,Horror|Fantasy,"The compelling story of It Follows, exploring themes in the Horror and Fantasy genre.",it_follows action drama,68,94000000,en
+169,Kingdom of Heaven,Adventure|Action,"The compelling story of Kingdom of Heaven, exploring themes in the Adventure and Action genre.",kingdom_of_heaven action drama,69,94500000,en
+170,Dark Crystal,Fantasy|Drama,"The compelling story of Dark Crystal, exploring themes in the Fantasy and Drama genre.",dark_crystal action drama,70,95000000,en
+171,Beverly Hills Cop,Action|Comedy,"The compelling story of Beverly Hills Cop, exploring themes in the Action and Comedy genre.",beverly_hills_cop action drama,71,95500000,en
+172,Solaris,Drama|Sci-Fi,"The compelling story of Solaris, exploring themes in the Drama and Sci-Fi genre.",solaris action drama,72,96000000,en
+173,Four Weddings and a Funeral,Comedy|Romance,"The compelling story of Four Weddings and a Funeral, exploring themes in the Comedy and Romance genre.",four_weddings_and_a_funeral action drama,73,96500000,en
+174,Alien,Sci-Fi|Thriller,"The compelling story of Alien, exploring themes in the Sci-Fi and Thriller genre.",alien action drama,74,97000000,en
+175,The Lure,Romance|Horror,"The compelling story of The Lure, exploring themes in the Romance and Horror genre.",the_lure action drama,75,97500000,en
+176,127 Hours,Thriller|Adventure,"The compelling story of 127 Hours, exploring themes in the Thriller and Adventure genre.",127_hours action drama,76,98000000,en
+177,The Witch,Horror|Fantasy,"The compelling story of The Witch, exploring themes in the Horror and Fantasy genre.",the_witch action drama,77,98500000,en
+178,Master and Commander: The Far Side of the World,Adventure|Action,"The compelling story of Master and Commander: The Far Side of the World, exploring themes in the Adventure and Action genre.",master_and_commander:_the_far_side_of_the_world action drama,78,99000000,en
+179,Ladyhawke,Fantasy|Drama,"The compelling story of Ladyhawke, exploring themes in the Fantasy and Drama genre.",ladyhawke action drama,79,99500000,en
+180,Lethal Weapon,Action|Comedy,"The compelling story of Lethal Weapon, exploring themes in the Action and Comedy genre.",lethal_weapon action drama,80,100000000,en
+181,Stalker,Drama|Sci-Fi,"The compelling story of Stalker, exploring themes in the Drama and Sci-Fi genre.",stalker action drama,81,100500000,en
+182,Jerry Maguire,Comedy|Romance,"The compelling story of Jerry Maguire, exploring themes in the Comedy and Romance genre.",jerry_maguire action drama,82,101000000,en
+183,Predator,Sci-Fi|Thriller,"The compelling story of Predator, exploring themes in the Sci-Fi and Thriller genre.",predator action drama,83,101500000,en
+184,Lifeforce,Romance|Horror,"The compelling story of Lifeforce, exploring themes in the Romance and Horror genre.",lifeforce action drama,84,102000000,en
+185,The Bourne Identity,Thriller|Adventure,"The compelling story of The Bourne Identity, exploring themes in the Thriller and Adventure genre.",the_bourne_identity action drama,85,102500000,en
+186,Hereditary,Horror|Fantasy,"The compelling story of Hereditary, exploring themes in the Horror and Fantasy genre.",hereditary action drama,86,103000000,en
+187,The Last of the Mohicans,Adventure|Action,"The compelling story of The Last of the Mohicans, exploring themes in the Adventure and Action genre.",the_last_of_the_mohicans action drama,87,103500000,en
+188,Legend,Fantasy|Drama,"The compelling story of Legend, exploring themes in the Fantasy and Drama genre.",legend action drama,88,104000000,en
+189,Die Hard with a Vengeance,Action|Comedy,"The compelling story of Die Hard with a Vengeance, exploring themes in the Action and Comedy genre.",die_hard_with_a_vengeance action drama,89,104500000,en
+190,Pi,Drama|Sci-Fi,"The compelling story of Pi, exploring themes in the Drama and Sci-Fi genre.",pi action drama,90,105000000,en
+191,Silver Linings Playbook,Comedy|Romance,"The compelling story of Silver Linings Playbook, exploring themes in the Comedy and Romance genre.",silver_linings_playbook action drama,91,105500000,en
+192,Terminator 2: Judgment Day,Sci-Fi|Thriller,"The compelling story of Terminator 2: Judgment Day, exploring themes in the Sci-Fi and Thriller genre.",terminator_2:_judgment_day action drama,92,106000000,en
+193,The Phantom of the Opera,Romance|Horror,"The compelling story of The Phantom of the Opera, exploring themes in the Romance and Horror genre.",the_phantom_of_the_opera action drama,93,106500000,en
+194,Taken,Thriller|Adventure,"The compelling story of Taken, exploring themes in the Thriller and Adventure genre.",taken action drama,94,107000000,en
+195,Midsommar,Horror|Fantasy,"The compelling story of Midsommar, exploring themes in the Horror and Fantasy genre.",midsommar action drama,95,107500000,en
+196,Apocalypto,Adventure|Action,"The compelling story of Apocalypto, exploring themes in the Adventure and Action genre.",apocalypto action drama,96,108000000,en
+197,Willow,Fantasy|Drama,"The compelling story of Willow, exploring themes in the Fantasy and Drama genre.",willow action drama,97,108500000,en
+198,True Lies,Action|Comedy,"The compelling story of True Lies, exploring themes in the Action and Comedy genre.",true_lies action drama,98,109000000,en
+199,Moon,Drama|Sci-Fi,"The compelling story of Moon, exploring themes in the Drama and Sci-Fi genre.",moon action drama,99,109500000,en
+200,The Wedding Singer,Comedy|Romance,"The compelling story of The Wedding Singer, exploring themes in the Comedy and Romance genre.",the_wedding_singer action drama,50,110000000,en
